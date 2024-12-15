@@ -1,0 +1,8 @@
+name: krutoiplug
+version: '1.0-SNAPSHOT'
+main: ezmefchik.krutoiplug.Krutoiplug
+api-version: '1.21'
+commands:
+  give-mef:
+    permission: plugin.give-items
+    description: IsNotSugar) /give-mef(only op)

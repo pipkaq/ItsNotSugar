@@ -1,0 +1,7 @@
+Commands\GetItemsCommand.class
+ezmefchik\krutoiplug\Krutoiplug.class
+Listeners\MefEat.class
+Listeners\MefEat50.class
+Listeners\MefEat100.class
+Commands\Recipes.class
+ezmefchik\krutoiplug\CustomItems.class
